@@ -1,3 +1,3 @@
-**VueJs TailwindCSS Components & Starter Kit**
+**VueJs Tailwind Starter Kit & Starter Kit**
 
 ![fiboard](./example/steps_demo.PNG)
