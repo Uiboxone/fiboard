@@ -1,3 +1,3 @@
 **VueJs TailwindCSS Components & Starter Kit**
 
-![fiboard](./example/vue-tailwind-screens-helper.jpg)
+![fiboard](./example/steps_demo.PNG)
